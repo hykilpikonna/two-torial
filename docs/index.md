@@ -8,7 +8,7 @@
 <img class="header-logo" src="/img/two-torial/banner.webp">
 
 <figure markdown>
-A compendium of information and guides about arcade games.  
+A compendium of informeowtion and guides about arcade games.  
 By the community, for the community.
 
 [Our old Discord server is discontinued; stay tuned for a new one coming soon! :fontawesome-brands-discord:](#){ .md-button }
